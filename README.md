@@ -34,7 +34,7 @@ CG1
 
 Just change ``firstName``, ``lastName`` and ``path`` in
 ```
-do(firstName="Max", lastName="Mustermann", path=".")
+do(firstName="Max", lastName="Mustermann", path="../CG1")
 ```
 
 ## Note

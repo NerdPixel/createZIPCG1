@@ -17,4 +17,4 @@ def do(firstName, lastName, path):
 
 
 if __name__ == '__main__':
-    do(firstName="Max", lastName="Mustermann", path="/Users/johann/WebstormProjects/CG1")
+    do(firstName="Max", lastName="Mustermann", path="../CG1")
